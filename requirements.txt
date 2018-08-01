@@ -1,0 +1,17 @@
+bleach==1.5.0
+coverage==4.5.1
+enum34==1.1.6
+grpcio==1.14.0rc2
+html5lib==0.9999999
+Markdown==2.6.11
+nose2==0.8.0
+numpy==1.15.0
+protobuf==3.6.0
+PyYAML==3.13
+rouge==0.3.1
+six==1.11.0
+tensorflow-gpu==1.4.0
+tensorflow-serving-api==1.9.0
+tensorflow-tensorboard==0.4.0
+Werkzeug==0.14.1
+pyonmttok==1.6.1
